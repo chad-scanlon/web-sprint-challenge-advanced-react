@@ -35,6 +35,9 @@
     ]
   },
   "devDependencies": {
-    "@sheerun/mutationobserver-shim": "^0.3.3"
+    "@sheerun/mutationobserver-shim": "^0.3.3",
+    "cypress": "^4.5.0",
+    "jest-dom": "^4.0.0",
+    "react-testing-library": "^8.0.1"
   }
 }
